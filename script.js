@@ -72,8 +72,9 @@ function iniciarJogo(){
      food.y = Math.floor(Math.random() *13 + 1) * box;
 
   }
+   
 
-
+    
  let newHead = {
     x: snakeX,
     y: snakeY
