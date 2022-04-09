@@ -4,6 +4,8 @@
 
 É pura *nostalgia* um jogo divertido e simples em que o objetivo é alimentar a cobra e não aproximar(-se) até tocar em si mesmo se não é **Game Over**!
 
+### Jogue agora -->[Snake Game](https://snakegamenostalgia.netlify.app/  "Snake Game")
+
 ![imagem do Jogo](img/snakegame.png)
 
 ### Tecnologias Utilizadas:
