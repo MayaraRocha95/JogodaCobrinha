@@ -6,6 +6,13 @@
 
 ### Jogue agora -->[Snake Game](https://snakegamenostalgia.netlify.app/  "Snake Game")
 
+
+![jogodacobrinha](https://user-images.githubusercontent.com/98711190/179098556-42838ca0-f6d8-4d93-85c4-582f1db3480b.gif)
+
+
+
+
+
 ![imagem do Jogo](img/snakegame.png)
 
 ### Tecnologias Utilizadas:
